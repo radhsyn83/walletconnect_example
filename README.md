@@ -1,16 +1,40 @@
-# walletconnect
-
-A new Flutter project.
+# walletconnect-example
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is Android application that can be connected
+to the Desktop dApp (https://react-app.walletconnect.com ) using wallet connect v2.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Step 1:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download or clone this repo by using the link below:
+
+```
+https://github.com/zubairehman/flutter-boilerplate-project.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies:
+
+```
+flutter pub get
+```
+
+**Step 3:**
+
+Run project to android
+
+```
+flutter run
+```
+
+## DEMO VIDEO
+
+This is demo video how to use this application
+
+```
+https://drive.google.com/file/d/1-ih9G6OMx3UCR4b4429xldR4sgt7vH9S/view?usp=sharing
+```
